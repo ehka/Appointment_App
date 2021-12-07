@@ -1,0 +1,7 @@
+{
+    "time": ["10:00:00", "11:00:00"], 
+    "employee":1, 
+    "client": "client_1@gmail.com", 
+    "day": "2021-6-30", 
+    "service": "one hour full body message"
+}
